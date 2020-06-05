@@ -26,8 +26,8 @@ Thật vậy:\
   & \
     0001 \
     ---- \
-  = 0001 \
-  
+  = 0001
+
 **2. Nhân và chia nhanh cho 2:**
 ```cpp
     num = num << 1; //~ Nhân num với 2  

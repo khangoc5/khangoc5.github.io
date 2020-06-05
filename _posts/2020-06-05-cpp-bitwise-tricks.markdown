@@ -22,11 +22,11 @@ Output: ODD\
 **Giải thích :**\
 Số 5 được viết dưới dạng nhị phân là 101. Vì vậy khi ta thực hiện phép toán 101 & 1 thì ta sẽ nhận được một số khác 0.\
 Thật vậy:\
-    0101 \
-  & \
-    0001 \
-    ---- \
-  = 0001
+&nbsp;&nbsp;&nbsp;&nbsp;0101 \
+&nbsp;&nbsp;& \
+&nbsp;&nbsp;&nbsp;&nbsp;0001 \
+&nbsp;&nbsp;&nbsp;&nbsp;---- \
+&nbsp;&nbsp;= 0001
 
 **2. Nhân và chia nhanh cho 2:**
 ```cpp

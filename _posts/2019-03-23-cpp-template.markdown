@@ -2,16 +2,25 @@
 layout: post
 title:  "C++ Template"
 date:   2019-08-23 21:03:36 +0530
-categories: CPP CompetitiveProgramming
+categories: CPP Competitive-Programming
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-
+Đây là code mẫu của mình khi tham gia các *contests* hiện nay.. Do học **LTCB A** nên mình quen dùng **scanf** với **printf** luôn. Mà tính vậy cũng hay, do tốc độ đọc của **scanf** nhanh hơn **cin** khi đọc **array** với số lượng lớn.
 ```cpp
-#include <bits/stdc++.h>
+#include <cstdio>
+#include <algorithm>
 
-using namespace std;
+//~ using namespace std;
+
+void test_case() {
+	//~ do something ...
+}
 
 int main() {
+	int T;
+	scanf("%d", &T);
+	while(T--) {
+		test_case();
+	}
 	return 0;
 }
 ```

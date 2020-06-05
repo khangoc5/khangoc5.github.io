@@ -7,7 +7,7 @@ categories: Bitwise-Tricks CPP Competitive-Programming
 
 Các tricks của C++ dựa trên bitwise trong Lập trình thi đấu (C++ 11).
 
-**1. Kiểm tra số chẳn hay số lẻ:**\
+**1. Kiểm tra số chẳn hay số lẻ:**\n
 *Cách kiểm tra này chỉ thực sự hữu hiệu khi số cần kiếm tra là rất lớn.*
 ```cpp
 if(num & 1) {
@@ -16,16 +16,16 @@ if(num & 1) {
     printf("EVEN");
 }
 ```
-**Ví dụ :**\
-Input: num = 5\
-Output: ODD\
-**Giải thích :**\
-Số 5 được viết dưới dạng nhị phân là 101. Vì vậy khi ta thực hiện phép toán 101 & 1 thì ta sẽ nhận được một số khác 0.\
-Thật vậy:\
-&nbsp;&nbsp;&nbsp;&nbsp;0101\
-&nbsp;&nbsp;& \
-&nbsp;&nbsp;&nbsp;&nbsp;0001\
-&nbsp;&nbsp;&nbsp;&nbsp;====\
+**Ví dụ :**\n
+Input: num = 5\n
+Output: ODD\n
+**Giải thích :**\n
+Số 5 được viết dưới dạng nhị phân là 101. Vì vậy khi ta thực hiện phép toán 101 & 1 thì ta sẽ nhận được một số khác 0.\n
+Thật vậy:\n
+&nbsp;&nbsp;&nbsp;&nbsp;0101\n
+&nbsp;&nbsp;&\n
+&nbsp;&nbsp;&nbsp;&nbsp;0001\n
+&nbsp;&nbsp;&nbsp;&nbsp;====\n
 &nbsp;&nbsp;&nbsp;&nbsp;0001
 
 **2. Nhân và chia nhanh cho 2:**

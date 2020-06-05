@@ -25,8 +25,8 @@ Thật vậy:\
 &nbsp;&nbsp;&nbsp;&nbsp;0101 \
 &nbsp;&nbsp;& \
 &nbsp;&nbsp;&nbsp;&nbsp;0001 \
-&nbsp;&nbsp;&nbsp;&nbsp;---- \
-&nbsp;&nbsp;= 0001
+&nbsp;&nbsp;&nbsp;&nbsp;======\
+&nbsp;&nbsp;&nbsp;&nbsp;0001
 
 **2. Nhân và chia nhanh cho 2:**
 ```cpp

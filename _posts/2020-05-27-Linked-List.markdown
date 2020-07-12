@@ -12,4 +12,4 @@ Danh sách liên kết, hiểu theo cách đơn giản nhất là một con tr�
 
 <img src="https://vietjack.com/cau-truc-du-lieu-va-giai-thuat/images/linked_list.jpg">
 
-Nguồn: VNOI và Vietjack.
+*Nguồn: VNOI và Vietjack.*

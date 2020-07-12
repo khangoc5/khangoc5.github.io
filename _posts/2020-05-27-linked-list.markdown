@@ -4,7 +4,7 @@ title:  "Linked List"
 date:   2020-07-12 10:30:00 +0700
 categories: C DSA
 ---
-# Linked List
+# Danh sách liên kết
 
 Danh sách liên kết là một cấu trúc dữ liệu có thể lưu trữ một số lượng phần tử tùy ý và dễ dàng thay đổi kích thước, cũng như dễ dàng bỏ đi các phần tử bên trong nó.
 

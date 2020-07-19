@@ -6,7 +6,7 @@ categories: CPP DSA Tree Competitive-Programming
 ---
 Segment Tree
 
-``cpp
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
 

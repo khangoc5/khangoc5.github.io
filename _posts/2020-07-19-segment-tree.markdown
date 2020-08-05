@@ -4,7 +4,7 @@ title:  "Segment Tree: Sum, Min, Max"
 date:   2020-07-19 15:10:00 +0700
 categories: CPP DSA Tree Competitive-Programming
 ---
-Segment Tree
+Segment Tree - cây phân đoạn.
 
 ```cpp
 #include <bits/stdc++.h>

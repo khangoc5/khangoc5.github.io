@@ -49,6 +49,7 @@ theme: plainwhite
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-gist
 #  - jekyll-feed
 
 remote_theme: thelehhman/plainwhite-jekyll

@@ -5,7 +5,7 @@ date:   2020-08-05 19:40:00 +0700
 categories: CPP Competitive-Programming
 ---
 
-Sieve of Eratosthenes - Sàn nguyên tố (chemthan).
+Sieve of Eratosthenes - Sàn nguyên tố (@chemthan).
 
 ```cpp
 #include <bits/stdc++.h>

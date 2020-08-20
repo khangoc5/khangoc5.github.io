@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BIT (Fenwick Tree)"
+title:  "2-Dual BIT (Fenwick Tree)"
 date:   2020-08-17 08:42:00 +0700
 categories: CPP Competitive-Programming
 ---

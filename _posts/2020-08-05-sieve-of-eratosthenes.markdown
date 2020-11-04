@@ -1,18 +1,13 @@
 ---
 layout: post
 title:  "Sieve of Eratosthenes"
-date:   2020-08-05 19:40:00 +0700
+date:   2020-11-04 20:50:00 +0700
 categories: CPP Competitive-Programming
 ---
 
 Sieve of Eratosthenes - Sàn nguyên tố (@chemthan).
 
 ```cpp
-#include <bits/stdc++.h>
-
-using namespace std;
-
-// @author: chemthan
 namespace Sieve {
     vector<bool> ispr;
     vector<int> prs;
@@ -47,10 +42,5 @@ namespace Sieve {
             }
         }
     }
-}
-
-int main() {
-	Sieve::work(1e8);
-	return 0;
 }
 ```
